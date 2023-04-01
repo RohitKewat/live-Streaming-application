@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  background-color: antiquewhite;
+}
+.container{
+  font-size: 2rem;
+  margin-top: 20%;
+  /* align-items: center; */
+  justify-content: center;
+}
+#roomid{
+  font-size: 1rem;
+}
+button {
+  background-color: blue;
+  color: red;
+  width: 12%;
+  height: 2rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin: 20px;
+
+}
+label{
+  font-size: 1.5rem;
+
+}
